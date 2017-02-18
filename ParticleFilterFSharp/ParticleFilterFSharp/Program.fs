@@ -11,8 +11,6 @@ open System.Windows.Forms
 open System.Reactive
 open System.Reactive.Linq
 
-open EventEx;
-
 [<EntryPoint>]
 [<STAThread>]
 let main argv = 
